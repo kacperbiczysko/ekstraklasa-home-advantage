@@ -20,7 +20,7 @@ and how this advantage has changed over 30 years.
 
 ## Key Findings
 - Home advantage does not significantly differentiate champions from the rest of the table — all teams perform better at home regardless of final position.
-- Home advantage has clearly declined over 30 years — in the 1990s the difference between home and away win % was around 25-30 points, dropping to 10-15 points in recent seasons.
+- Home advantage has clearly declined over 30 years — in the 1990s the difference between home and away win % was around 20-30 points, dropping to 10-20 points in recent seasons.
 
 ## How to Run
 Open the notebook in Google Colab or Jupyter and run all cells
