@@ -10,7 +10,7 @@ and how this advantage has changed over 30 years.
 - Has home advantage declined over the last 30 years in Ekstraklasa?
 
 ## Dataset
-- Source: [Kaggle — Ekstraklasa 1989-2023][(https://www.kaggle.com/)](https://www.kaggle.com/datasets/marcinkamil84/ekstraklasa-1989-2023)
+- Source: [Kaggle — Ekstraklasa 1989-2023](https://www.kaggle.com/datasets/marcinkamil84/ekstraklasa-1989-2023)
 - 9105 matches across 32 seasons
 
 ## Tools & Libraries
