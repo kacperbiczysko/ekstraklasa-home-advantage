@@ -1,3 +1,5 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kacperbiczysko/ekstraklasa-home-advantage/blob/main/ekstraklasa_home_advantage.ipynb)
+
 # Home Advantage in Ekstraklasa 1989-2023
 
 ## Project Overview
